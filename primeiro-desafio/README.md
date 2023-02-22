@@ -35,3 +35,5 @@ Algoritmos Intermediários
 4. Dc Monalds
    
 5. Camarote do Blue Cold Ice Cubes
+
+commitreadme
